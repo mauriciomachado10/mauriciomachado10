@@ -13,7 +13,7 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas. Estou 
 - 🔭 Trabalhando em projetos fictícios para praticar: blogs, páginas pessoais e jogos simples em JavaScript
 - 🎯 Objetivo: Me tornar um desenvolvedor Full Stack e trabalhar com tecnologias modernas
 - 💬 Gosto de aprender com tutoriais, documentações e praticando no dia a dia
-- 📍 Localização: São Paulo, Brasil
+- 📍 Localização: Franca-SP, Brasil
 - ✨ Curiosidade: Meu primeiro "Hello World" me fez sentir um hacker 😄
 
 ---
@@ -56,16 +56,16 @@ Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas. Estou 
 - **Meu Portfólio Pessoal** – HTML + CSS  
 - **Jogo da Adivinhação** – JavaScript puro  
 - **Página de Login Responsiva** – HTML + CSS + JS  
-- **Calculadora Web** – JavaScript + estilos personalizados  
-- **Blog Simples** – Usando Markdown e hospedado no GitHub Pages
+- **Calculadora Web** – JavaScript + estilos personalizados
+- **APP controle de entregas** – Delphi + framework FMX  
 
 ---
 
 ## 📫 Como entrar em contato
 
-- 📧 E-mail: mauricio.gomes@exemplo.com *(substitua pelo seu real, se quiser)*  
-- 💼 LinkedIn: [linkedin.com/in/mauriciomachado](https://linkedin.com/in/mauriciomachado) *(coloque só se tiver)*  
-- 🌐 Portfólio: [mauriciomachado.dev](https://mauriciomachado.dev) *(fictício, mas você pode criar no futuro)*
+- 📧 E-mail: mauriciomachadofranca@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/mauriciomachado](https://linkedin.com/in/mauriciomachado)
+- 🌐 Portfólio: [mauriciomachado.dev](https://mauriciomachado.dev)
 
 ---
 
